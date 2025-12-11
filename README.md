@@ -9,6 +9,10 @@ A React-based digital sticky notes application that helps you create, edit, sear
 
 🌐 **[View Live App](https://super-sticky-notes.netlify.app/)** | 💻 **[CodeSandbox](https://codesandbox.io/p/github/CatYoung018/Super-sticky-notes/main)**
 
+## 📸 Preview
+
+![Super Sticky Notes App](https://github.com/user-attachments/assets/1bee7cc9-5e86-4f15-9f53-e729f4ed09cd)
+
 ---
 
 ## 📋 Table of Contents
